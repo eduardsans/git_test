@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 hola que tal blablbalba
+=======
+hola que tal
+>>>>>>> bf71b5eb858aae40d3ff90e54ffd89d0cfca6b32
